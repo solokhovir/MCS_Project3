@@ -24,7 +24,9 @@ h1 {
 }
 
 .img_main {
-    height: max-content;
+    background-image: url('img.png');
+    background-size: cover;
+    height: 1080px;
 }
 
 .page_info {
